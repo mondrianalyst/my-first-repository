@@ -1,3 +1,3 @@
 # my-first-repository
 Just practising...
-it did not work... :(
+it did work! hooray!
